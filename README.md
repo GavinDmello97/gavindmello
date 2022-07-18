@@ -1,10 +1,8 @@
-### Github Stats
 
-  [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&show_icons=true&theme=tokyonight)](https://github.com/GavinDmello97/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Gavin D'mello</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
+  [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&show_icons=true&theme=light)](https://github.com/GavinDmello97/github-readme-stats)
 
 - 🔭 I’m currently working on [a web application using React](https://github.com/Build-My-Stack/the-cook-book-frontend)
 
