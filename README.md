@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on [a web application using React](https://github.com/Build-My-Stack/the-cook-book-frontend)
 
-- 🌱 I’m currently learning **Full Stack Web Development and Mobile Development**
+- 🌱 I’m a **Full Stack Web Development and Mobile Development**
 
 - 👯 I’m looking to collaborate on **react/react-native plugins**
 
-- 🤝 I’m looking for help with **building native android applications using Kotlin/Java**
+- 🤝 I’m learning to **build native android applications using Kotlin/Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GavinDmello97?tab=repositories](https://github.com/GavinDmello97?tab=repositories)
 
-- 💬 Ask me about **react, vue, react-native, android**
+- 💬 Ask me about **react, react-native, android, backend and databases**
 
 - 📫 How to reach me **gavindmello1997@gmail.com**
 
