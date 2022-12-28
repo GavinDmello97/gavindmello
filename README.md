@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gavin D'mello</h1>
 <h3 align="center">A passionate full stack web developer and mobile developer</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?&locale=en&layout=compact" alt="gavindmello97" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=GavinDmello97&locale=en&layout=compact" alt="gavindmello97" /></p>
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio" alt="gavindmello97 /></p>
  
