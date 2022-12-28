@@ -4,9 +4,11 @@
 
   [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/GavinDmello97/github-readme-stats)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio)](https://github.com/GavinDmello97/github-readme-stats)
+  <div style="display=flex;flex-direction=row">[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio)](https://github.com/GavinDmello97/github-readme-stats)
+ 
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica)](https://github.com/GavinDmello97/github-readme-stats)
+   <div>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
 
 - 🔭 I’m currently working on [a portfolio single page web application](https://github.com/GavinDmello97/my-portfolio)
