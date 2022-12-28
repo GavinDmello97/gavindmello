@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web developer and mobile developer</h3>
 
 <p justify="center">
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GavinDmello97&locale=en&layout=compact" alt="gavindmello97" />
+  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GavinDmello97&locale=en&layout=compact" alt="gavindmello97" />
 </p>
 
 
