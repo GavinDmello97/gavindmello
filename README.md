@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gavin D'mello</h1>
 <h3 align="center">A passionate full stack web developer and mobile developer</h3>
 
-  [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&repo=my-portfolio,blogica )](https://github.com/GavinDmello97/github-readme-stats)
+  [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&repo=my-portfolio)](https://github.com/GavinDmello97/github-readme-stats)
 
 - 🔭 I’m currently working on [a web application using React](https://github.com/Build-My-Stack/the-cook-book-frontend)
 
