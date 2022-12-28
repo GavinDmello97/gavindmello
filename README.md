@@ -8,8 +8,8 @@
 
 
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio" alt="gavindmello97 />
+  <p justify="center">
+<!--     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio" alt="gavindmello97 /> -->
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica" alt="gavindmello97 />
   </p>
  
