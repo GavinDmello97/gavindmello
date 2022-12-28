@@ -8,9 +8,9 @@
  
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica)](https://github.com/GavinDmello97/github-readme-stats)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
      
-     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavindmello97&show_icons=true&locale=en&layout=compact" alt="gavindmello97" /></p>
+     <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gavindmello97&show_icons=true&locale=en&layout=compact" alt="gavindmello97" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gavindmello97&show_icons=true&locale=en" alt="gavindmello97" /></p>
 
