@@ -4,7 +4,7 @@
 
   [![Gavin D'mello GitHub stats](https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=stars,issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true)](https://github.com/GavinDmello97/github-readme-stats)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio)](https://github.com/GavinDmello97/github-readme-stats)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio, blogica)](https://github.com/GavinDmello97/github-readme-stats)
 
 - 🔭 I’m currently working on [a web application using React](https://github.com/Build-My-Stack/the-cook-book-frontend)
 
