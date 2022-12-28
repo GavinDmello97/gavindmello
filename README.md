@@ -10,9 +10,11 @@
 
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio" alt="gavindmello97 />
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica" alt="gavindmello97 />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica" alt="gavindmello97 />
   </p>
  
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
      
