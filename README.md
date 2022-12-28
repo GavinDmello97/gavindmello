@@ -7,8 +7,6 @@
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=my-portfolio)](https://github.com/GavinDmello97/github-readme-stats)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GavinDmello97&repo=blogica)](https://github.com/GavinDmello97/github-readme-stats)
-<h1 align="center">Hi 👋, I'm Gavin D'mello</h1>
-<h3 align="center">A passionate full stack developer, excited to learn and explore new areas</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97" alt="gavindmello97" /></a> </p>
 
