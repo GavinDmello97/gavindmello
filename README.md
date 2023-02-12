@@ -26,6 +26,12 @@
 &nbsp; &nbsp;
   <img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%">
 </p>
+<p align="left">
+  <img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%">
+&nbsp; &nbsp;
+    <img alt="Recipe Diary(Backend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-backend" width="48%">
+
+</p>
 
 
 ### GitHub Trophies
