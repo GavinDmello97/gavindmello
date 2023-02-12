@@ -28,19 +28,15 @@
 </p>
 <p align="left">
   <a href="https://github.com/GavinDmello97/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=Location-Finder" width="48%"></a>
-</p>
-<p align="left">
+  &nbsp; &nbsp;
   <a href="https://github.com/GavinDmello97/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%"></a>
-&nbsp; &nbsp;
-    <a href="https://github.com/GavinDmello97/recipe-diary-backend" target="_blank"><img alt="Recipe Diary(Backend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-backend" width="48%"></a>
-
 </p>
 
 
 
 ### GitHub Trophies
 
-<p align="left">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97&title=MultiLanguage,PullRequest,Repositories,Commits,Stars" alt="gavindmello97" /></a> </p>
+<p align="left">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97&title=MultiLanguage,PullRequest,Repositories,Commits" alt="gavindmello97" /></a> </p>
      
 
 ### Social Links
