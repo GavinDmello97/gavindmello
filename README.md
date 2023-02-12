@@ -22,16 +22,20 @@
 ### Latest Projects
 
 <p align="left">
+  <a href="https://github.com/GavinDmello97/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%"></a>
+  &nbsp; &nbsp;
   <a href="https://github.com/GavinDmello97/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%"></a>
-&nbsp; &nbsp;
-  <img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%">
 </p>
 <p align="left">
-  <img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%">
+  <a href="https://github.com/GavinDmello97/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=Location-Finder" width="48%"></a>
+</p>
+<p align="left">
+  <a href="https://github.com/GavinDmello97/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%"></a>
 &nbsp; &nbsp;
-    <img alt="Recipe Diary(Backend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-backend" width="48%">
+    <a href="https://github.com/GavinDmello97/recipe-diary-backend" target="_blank"><img alt="Recipe Diary(Backend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-backend" width="48%"></a>
 
 </p>
+
 
 
 ### GitHub Trophies
