@@ -6,16 +6,10 @@
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /></p>
 
 
-- 🔭 I’m currently working on [a single page responsive **PORTFOLIO** web-application](https://github.com/GavinDmello97/my-portfolio)
-
-- 🌱 I’m currently learning **Kotlin Backend Development and AWS**
-
+- 🔭 I’m currently working on learning and contributing to **open source github repositories**
 - 👨‍💻 All of my projects are available at [GavinDmello97/repositories](https://github.com/GavinDmello97?tab=repositories)
-
 - 📝 I regularly write articles on [Medium](https://medium.com/@gavindmello1997)
-
 - 📫 Reach me through [gavindmello1997@gmail.com](mailto:gavindmello1997@gmail.com)
-
 - 📄 Know about my experiences on [my resume](https://docs.google.com/document/d/1wDOtA9qBQenAlRNuNtVefa1njx6NLtrCCGT1y9QFECk/edit?usp=sharing)
 
 
