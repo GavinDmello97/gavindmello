@@ -22,7 +22,7 @@
 ### Latest Projects
 
 <p align="left">
-  <img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%">
+  <a href="https://github.com/GavinDmello97/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%"></a>
 &nbsp; &nbsp;
   <img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%">
 </p>
