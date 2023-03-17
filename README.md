@@ -16,21 +16,21 @@
 ### Latest Projects
 
 <p align="left">
-  <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%"></a>
+  <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%"></a>
+  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/eliterudy/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=Location-Finder" width="48%"></a>
+  <a href="https://github.com/eliterudy/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=Location-Finder" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%"></a>
+  <a href="https://github.com/eliterudy/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=recipe-diary-frontend" width="48%"></a>
 </p>
 
 
 
 ### GitHub Trophies
 
-<p align="left">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gavindmello97&title=MultiLanguage,PullRequest,Repositories,Commits" alt="gavindmello97" /></a> </p>
+<p align="left">&nbsp; <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eliterudy&title=MultiLanguage,PullRequest,Repositories,Commits" alt="gavindmello97" /></a> </p>
      
 
 ### Social Links
