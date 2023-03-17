@@ -3,11 +3,11 @@
 <h3 align="center">A passionate full stack software developer</h3>
 
 
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=GavinDmello97&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=eliterudy&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /></p>
 
 
 - 🔭 I’m currently working on learning and contributing to **open source github repositories**
-- 👨‍💻 All of my projects are available at [GavinDmello97/repositories](https://github.com/GavinDmello97?tab=repositories)
+- 👨‍💻 All of my projects are available at [eliterudy/repositories](https://github.com/eliterudy?tab=repositories)
 - 📝 I regularly write articles on [Medium](https://medium.com/@gavindmello1997)
 - 📫 Reach me through [gavindmello1997@gmail.com](mailto:gavindmello1997@gmail.com)
 - 📄 Know about my experiences on [my resume](https://docs.google.com/document/d/1wDOtA9qBQenAlRNuNtVefa1njx6NLtrCCGT1y9QFECk/edit?usp=sharing)
@@ -16,14 +16,14 @@
 ### Latest Projects
 
 <p align="left">
-  <a href="https://github.com/GavinDmello97/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%"></a>
+  <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=my-portfolio" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/GavinDmello97/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%"></a>
+  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=blogica" width="48%"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/GavinDmello97/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=Location-Finder" width="48%"></a>
+  <a href="https://github.com/eliterudy/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=Location-Finder" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/GavinDmello97/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%"></a>
+  <a href="https://github.com/eliterudy/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=gavindmello97&repo=recipe-diary-frontend" width="48%"></a>
 </p>
 
 
