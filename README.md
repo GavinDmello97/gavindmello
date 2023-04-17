@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gavin D'mello</h1>
-<h3 align="center">A passionate full stack software developer</h3>
+<h3 align="center">A passionate frontend software developer making his way to becoming a full-stack developer</h3>
 
 
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=eliterudy&hide=issues&count_private=true&show_icons=true&theme=transparent&include_all_commits=true&locale=en" alt="gavindmello97" /></p>
