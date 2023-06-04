@@ -16,19 +16,19 @@
 ### Latest Projects
 
 <p align="left">
-  <a href="https://github.com/eliterudy/online-shopping" target="_blank"><img alt="Full-Stack-Online-Shopping" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=online-shopping" width="48%"></a>
+  <a href="https://github.com/eliterudy/online-shopping" target="_blank"><img alt="Full-Stack-Online-Shopping" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=online-shopping" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/my-portfolio-3d" target="_blank"><img alt="3D Portfolio Template - React" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio-3d" width="48%"></a>
+  <a href="https://github.com/eliterudy/my-portfolio-3d" target="_blank"><img alt="3D Portfolio Template - React" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio-3d" width="48%"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio" width="48%"></a>
+  <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
+  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
 </p>
 <p align="left">
-  <a href="https://github.com/eliterudy/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=Location-Finder" width="48%"></a>
+  <a href="https://github.com/eliterudy/Location-Finder" target="_blank"><img alt="Location Finder" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=Location-Finder" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=recipe-diary-frontend" width="48%"></a>
+  <a href="https://github.com/eliterudy/recipe-diary-frontend" target="_blank"><img alt="Recipe Diary(Frontend)" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=eliterudy&repo=recipe-diary-frontend" width="48%"></a>
 </p>
 
 
