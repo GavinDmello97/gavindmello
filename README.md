@@ -16,6 +16,11 @@
 ### Latest Projects
 
 <p align="left">
+  <a href="https://github.com/eliterudy/online-shopping" target="_blank"><img alt="Full-Stack-Online-Shopping" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=online-shopping" width="48%"></a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="3D Portfolio Template - React" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
+</p>
+<p align="left">
   <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio" width="48%"></a>
   &nbsp; &nbsp;
   <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="Blogica" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
@@ -35,7 +40,7 @@
 
 ### Social Links
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="30" width="40">](https://github.com/gavindmello97)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height="30" width="40">](https://www.linkedin.com/in/gd1997/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height="30" width="40">](https://codesandbox.io/u/gavindmello)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height="30" width="40">](https://stackoverflow.com/users/15767562/gavin-dmello)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height="30" width="40">](https://medium.com/@gavindmello1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height="30" width="40">](https://leetcode.com/Gavin97Dmello/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height="30" width="40">](https://github.com/eliterudy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height="30" width="40">](https://www.linkedin.com/in/gd97/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height="30" width="40">](https://codesandbox.io/u/GavinDmello)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height="30" width="40">](https://stackoverflow.com/users/15767562/gavin-dmello)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height="30" width="40">](https://medium.com/@gavindmello1997)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height="30" width="40">](https://leetcode.com/GavinDmello97/)  
 
 
 
