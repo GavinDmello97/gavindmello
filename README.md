@@ -10,15 +10,15 @@
 - 👨‍💻 All of my projects are available at [eliterudy/repositories](https://github.com/eliterudy?tab=repositories)
 - 📝 I regularly write articles on [Medium](https://medium.com/@gavindmello1997)
 - 📫 Reach me through [gavindmello1997@gmail.com](mailto:gavindmello1997@gmail.com)
-- 📄 Know about my experiences on [my resume](https://docs.google.com/document/d/1wDOtA9qBQenAlRNuNtVefa1njx6NLtrCCGT1y9QFECk/edit?usp=sharing)
-
+<!-- - 📄 Know about my experiences on [my resume](https://docs.google.com/document/d/1wDOtA9qBQenAlRNuNtVefa1njx6NLtrCCGT1y9QFECk/edit?usp=sharing)
+ -->
 
 ### Latest Projects
 
 <p align="left">
   <a href="https://github.com/eliterudy/online-shopping" target="_blank"><img alt="Full-Stack-Online-Shopping" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=online-shopping" width="48%"></a>
   &nbsp; &nbsp;
-  <a href="https://github.com/eliterudy/blogica" target="_blank"><img alt="3D Portfolio Template - React" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=blogica" width="48%"></a>
+  <a href="https://github.com/eliterudy/my-portfolio-3d" target="_blank"><img alt="3D Portfolio Template - React" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio-3d" width="48%"></a>
 </p>
 <p align="left">
   <a href="https://github.com/eliterudy/my-portfolio" target="_blank"><img alt="My Portfolio" src="https://github-readme-stats.vercel.app/api/pin/?username=eliterudy&repo=my-portfolio" width="48%"></a>
